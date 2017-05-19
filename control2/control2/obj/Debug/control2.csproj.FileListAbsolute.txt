@@ -1,0 +1,6 @@
+D:\Anna\control2\control2\bin\Debug\control2.exe.config
+D:\Anna\control2\control2\bin\Debug\control2.exe
+D:\Anna\control2\control2\bin\Debug\control2.pdb
+D:\Anna\control2\control2\obj\Debug\control2.csprojResolveAssemblyReference.cache
+D:\Anna\control2\control2\obj\Debug\control2.exe
+D:\Anna\control2\control2\obj\Debug\control2.pdb
